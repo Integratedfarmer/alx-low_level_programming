@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include "main.h"
+#include <stdlib.h>
 
 /**
  * *_strdup - copies the string given as parameter
